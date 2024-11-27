@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### 3. Run the Framework
 Launch the Gradio interface by running:
 ```bash
-python main.py
+python scores.py
 ```
 A local server will start, and the URL (e.g., `http://127.0.0.1:7860`) will be displayed.
 
@@ -92,13 +92,4 @@ For the input folders, the output table will look like this:
 
 ---
 
-## **Contact**
-For questions or support, please contact:
-- **Email**: [your_email@example.com]
-- **GitHub Issues**: [repository-link/issues](https://github.com/your-repository/issues)
-
----
-
-## **License**
-This project is licensed under the MIT License.
 
