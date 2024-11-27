@@ -13,8 +13,8 @@ This repository contains the implementation of an evaluation framework for synth
 ### 1. Clone the Repository
 Clone the repository to your local system:
 ```bash
-git clone <repository-link>
-cd <repository-folder>
+git clone https://github.com/sanjitha-patnaik/AI_INDUSTRY_Assignment_1b.git
+cd AI_INDUSTRY_Assignment_1b
 ```
 
 ### 2. Install Dependencies
