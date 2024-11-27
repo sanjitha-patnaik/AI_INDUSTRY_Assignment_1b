@@ -1,6 +1,7 @@
 # AI_INDUSTRY_Assignment_1b
 A repository for evaluating generative video models using Frechet Inception Distance for Videos (FID-Vid) and Frechet Video Distance (FVD) metrics.
 
+You can find the project demo video on YouTube at the following link: [https://www.youtube.com/watch?v=Vs7zhQ0s88Q]
 
 # Video Evaluation Framework
 
